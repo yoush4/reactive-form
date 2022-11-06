@@ -19,3 +19,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 5) Error message will display on `Top Right Corner` of the field  
 6) Once data will fill in all fields, `Submit` button will ebable
 7) We need to collect `latest` form data and will display right side of screen. it will be object with 4 key (name, email, bio, domain).
+
+## Reference 
+
+[Icon Bootstrap](https://icons.getbootstrap.com/)
+
+[Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
